@@ -1,5 +1,8 @@
 ### Hi there 👋
 Profesional de la Carrera de Ingeniería de Computación y Sistemas,cuento con la capacidad y la Actitud para desarrollar relaciones interpersonales, enfrentar retos difíciles, habilidad y disposiciónpara el trabajo en equipo y adaptación rápida a loscambios. Mi experiencia laboral está en la mejora continua de Gestión de Servicios de Información bajo las mejores practicas de ITIL, Lo complemento aplicando metodología Ágil Scrum en la realizaciónde proyectos Freelance de Desarrollo Web y proyectos Elearning.
+
+
+-https://img.shields.io/badge/any_text-you_like-blue
 <!--
 
 
