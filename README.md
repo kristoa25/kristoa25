@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kristoa25/kristoa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional de la Carrera de Ingeniería de Computación y Sistemas,cuento con la capacidad y la Actitud para desarrollar relacionesinterpersonales, enfrentar retos difíciles, habilidad y disposiciónpara el trabajo en equipo y adaptación rápida a loscambios.Mi experiencia laboral está en la mejora continua de Gestión deServicios de Información bajo las mejores practicas de ITIL, Locomplemento aplicando metodología Ágil Scrum en la realizaciónde proyectos Freelance.
 
 Here are some ideas to get you started:
 
